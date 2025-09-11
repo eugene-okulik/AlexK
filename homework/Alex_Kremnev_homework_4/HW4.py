@@ -14,9 +14,10 @@ print(my_dict["dict"])
 my_dict["dict"].pop("name") #  удалите какой-нибудь элемент
 print(my_dict["dict"])
 
-my_dict["set"].add("dalas")
-my_dict["set"].pop #  добавьте новый элемент в множество
-print(my_dict["set"]) #  удалите элемент из множества
+my_dict["set"].add("dalas") #  добавьте новый элемент в множество
+my_dict["set"].pop #  удалите элемент из множества
+print(my_dict["set"])
+
 
 
 
