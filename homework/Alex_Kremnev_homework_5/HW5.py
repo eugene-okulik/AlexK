@@ -1,8 +1,3 @@
-line = "Число: 99"
-first_ind = line.index(":") + 2
-print(first_ind)
-
-
 #  задание 1
 person = ["John", "Doe", "New York", "+1372829383739", "US"]
 name, last_name, city, phone, country = person
